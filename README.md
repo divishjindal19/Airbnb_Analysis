@@ -34,3 +34,5 @@ Python (Pandas, Matplotlib, Seaborn) for data analysis and visualization.
 Jupyter Notebook for running and documenting the analysis.
 
 Tableau for interactive data visualization.
+![image](https://github.com/user-attachments/assets/87870033-e63e-4222-9ae9-eaa4921b9fb9)
+
